@@ -1,0 +1,12 @@
+.header{
+    align-content: center;
+    margin:20px 0 0 10px;
+    background-color: rgb(179, 235, 49);
+    height: 140px;
+}
+
+.header h1{
+    text-align: center;
+    position:relative;
+    top:90px;
+}
